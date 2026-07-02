@@ -1,7 +1,10 @@
 # Pengalaman Vibes Ngoding dan AI
 Dulu ngoding identik sekali dengan tumpukan tab dokumentasi yang tidak ada habisnya di browser. Kita harus bolak-balik mencari solusi di Stack Overflow hanya untuk mengatasi error sepele yang bikin pusing. Rasa frustrasi sering muncul ketika logika kode tiba-tiba macet di tengah malam dan tidak tahu harus bertanya ke siapa.
+
 Namun sejak AI masuk ke dalam alur kerja pemrograman, atmosfernya berubah total menjadi lebih interaktif. Sekarang ngoding rasanya seperti sedang kerja kelompok dengan teman yang tahu banyak hal dan selalu siap membantu. Saat ada logika yang buntu, misalnya waktu mengatur manipulasi array, menyusun logika di Google Apps Script, atau debugging framework modern, AI bisa diajak bertukar pikiran secara instan.
+
 Membangun platform dari nol, menyusun struktur database, hingga urusan deployment sekarang terasa jauh lebih cepat. AI sangat membantu memangkas waktu penulisan kode standar yang berulang, sehingga fokus kita bisa diarahkan penuh pada arsitektur aplikasi dan pengalaman pengguna.
+
 Tapi tentu ada tantangannya, seperti pengalaman di mana AI memberikan saran kode yang terlihat sangat meyakinkan padahal hasilnya keliru karena logika dasarnya meleset. Di sinilah insting dan pemahaman fungsi dasar kita sebagai manusia benar-benar diuji untuk tetap memegang kendali dan melakukan koreksi langsung.
 
 # Pandangan Kritis Mengenai Kelebihan Dunia AI dan Coding Saat Ini
